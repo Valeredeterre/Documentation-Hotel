@@ -1,0 +1,9 @@
+<map id="displayBookingInfo" name="displayBookingInfo">
+<area shape="rect" id="node1" title="function to display the booking info." alt="" coords="5,81,152,108"/>
+<area shape="rect" id="node2" href="$function_8cpp.html#a2b2462b5de93048caf7039ac14ea6105" title="function to create a new booking." alt="" coords="200,81,355,108"/>
+<area shape="rect" id="node3" href="$function_8cpp.html#a6f694600620ece469987915022354064" title=" " alt="" coords="455,5,549,32"/>
+<area shape="rect" id="node4" href="$function_8cpp.html#ab88e6a8dc963b834290d51d0fa6fedc8" title="function to display the client info." alt="" coords="436,56,568,83"/>
+<area shape="rect" id="node6" href="$classHotel.html#a79d3724828f8af7ce97e9782143b145f" title="Getter that allows to get the number of rooms." alt="" coords="403,107,601,133"/>
+<area shape="rect" id="node7" href="$classHotel.html#a286196ebb421e7c0514c76ba82d0c855" title="Getter that allows to get the room of the hotel." alt="" coords="440,157,564,184"/>
+<area shape="rect" id="node5" href="$function_8cpp.html#ab8e51cc0841711954d793fed5db1b3b5" title="function to create a new client." alt="" coords="649,56,788,83"/>
+</map>

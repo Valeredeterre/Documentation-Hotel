@@ -1,0 +1,7 @@
+<map id="createANewClient" name="createANewClient">
+<area shape="rect" id="node1" title="function to create a new client." alt="" coords="685,5,824,32"/>
+<area shape="rect" id="node2" href="$function_8cpp.html#ab88e6a8dc963b834290d51d0fa6fedc8" title="function to display the client info." alt="" coords="505,5,637,32"/>
+<area shape="rect" id="node3" href="$function_8cpp.html#a2b2462b5de93048caf7039ac14ea6105" title="function to create a new booking." alt="" coords="303,5,457,32"/>
+<area shape="rect" id="node4" href="$function_8cpp.html#ac06e0a7239e7c70836a8870fb9a04eef" title="function to display the booking info." alt="" coords="108,5,255,32"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
+</map>

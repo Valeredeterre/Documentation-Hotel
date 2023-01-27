@@ -1,0 +1,5 @@
+<map id="fillHotelWithRooms" name="fillHotelWithRooms">
+<area shape="rect" id="node1" title="function to fill the hotel with rooms." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$classHotel.html#a87ad43f7b129908ba1d3b60b7bcfb93a" title="Add a room to the hotel." alt="" coords="201,5,328,32"/>
+<area shape="rect" id="node3" href="$classRoom.html#a9183594ef9151b5e3042ca0af361262f" title="Getter that allows to get the number." alt="" coords="376,5,517,32"/>
+</map>
