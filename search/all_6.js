@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['getcheckindate_48',['getCheckInDate',['../classBooking.html#aa74a95bbcededbe2ceefacf93853fca2',1,'Booking']]],
+  ['getclient_49',['getClient',['../classBooking.html#ac990fff8bc9c3a5a2a996fa07d68856a',1,'Booking']]],
+  ['getday_50',['GetDay',['../classDate.html#a6304a67f1c13b239eb8e80ad68161e40',1,'Date']]],
+  ['getfirstname_51',['GetFirstName',['../classClient.html#aa95f7e27a2cdf9c6877e235252d9a948',1,'Client']]],
+  ['gethotel_52',['getHotel',['../classBooking.html#a97df552bce28540e9e1e95a986af4f31',1,'Booking']]],
+  ['getid_53',['GetId',['../classClient.html#a215c3ee2fec0d0b29f76ead93017c2d3',1,'Client']]],
+  ['getid_54',['getId',['../classBooking.html#ad0d199fd580910a759dcfbba87b32949',1,'Booking::getId()'],['../classHotel.html#a16330151a37268c8f74354a4b9587770',1,'Hotel::getId()']]],
+  ['getisavailable_55',['getIsAvailable',['../classRoom.html#ab540196509fd068dc88fb14b753ee2a6',1,'Room']]],
+  ['getmonth_56',['GetMonth',['../classDate.html#af2dcc6ce51dbb2bd798499a149bdffb7',1,'Date']]],
+  ['getname_57',['GetName',['../classClient.html#a468819c802843c0551c065ff9b54f144',1,'Client']]],
+  ['getnumber_58',['getNumber',['../classRoom.html#a9183594ef9151b5e3042ca0af361262f',1,'Room']]],
+  ['getnumberofnights_59',['getNumberOfNights',['../classBooking.html#a47fdc16f71e5d96d0cd155f9f728ee1c',1,'Booking']]],
+  ['getnumberofrooms_60',['getNumberOfRooms',['../classHotel.html#a79d3724828f8af7ce97e9782143b145f',1,'Hotel']]],
+  ['getprice_61',['getPrice',['../classRoom.html#aec796763cabf1feb202bf9582c9e3fe0',1,'Room']]],
+  ['getroom_62',['getRoom',['../classHotel.html#a286196ebb421e7c0514c76ba82d0c855',1,'Hotel']]],
+  ['getroomnumber_63',['getRoomNumber',['../classBooking.html#a2f375b0ec7725e62e4c5229225bf2b48',1,'Booking']]],
+  ['gettype_64',['getType',['../classRoom.html#ac57124a2bc85ad90b637093ba444000d',1,'Room']]],
+  ['getyear_65',['GetYear',['../classDate.html#ad79ce504482f317ddcfdc4ecad77671f',1,'Date']]]
+];
