@@ -1,0 +1,4 @@
+<map id="Hotel::addRoom" name="Hotel::addRoom">
+<area shape="rect" id="node1" title="Add a room to the hotel." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$classRoom.html#a9183594ef9151b5e3042ca0af361262f" title="Getter that allows to get the number." alt="" coords="180,5,321,32"/>
+</map>

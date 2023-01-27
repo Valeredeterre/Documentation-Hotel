@@ -1,0 +1,7 @@
+<map id="Room::getPrice" name="Room::getPrice">
+<area shape="rect" id="node1" title="Getter that allows to get the price." alt="" coords="456,56,577,83"/>
+<area shape="rect" id="node2" href="$classBooking.html#a7a135034340b8b7f4a7c9d3c07fc2761" title="Method allow to calculate the total cost of the booking." alt="" coords="265,56,408,83"/>
+<area shape="rect" id="node3" href="$classBooking.html#a93e0d3a647ac990e4f742da95ff5d642" title="Default constructor of the Booking class." alt="" coords="43,5,179,32"/>
+<area shape="rect" id="node4" href="$classBooking.html#aefde1b77cdd7098fd1bf5de4f92d46e7" title="Setter that allows to set the number of nights of the booking." alt="" coords="5,56,217,83"/>
+<area shape="rect" id="node5" href="$classBooking.html#a97b0d7d0011e180c9adda3d9d4a3dd14" title="Setter that allows to set the room number of the booking." alt="" coords="15,107,208,133"/>
+</map>

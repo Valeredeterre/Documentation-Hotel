@@ -1,0 +1,5 @@
+<map id="Date::GetMonth" name="Date::GetMonth">
+<area shape="rect" id="node1" title="Getter that allows to get the month of the date." alt="" coords="192,31,317,57"/>
+<area shape="rect" id="node2" href="$classDate.html#a673f3c9086fb0643c907565df3463acc" title="Operator overload." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node3" href="$classDate.html#a7b73a2b2a5c2cf8434561332e83d7f95" title="Operator overload." alt="" coords="11,56,138,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Room::getNumber" name="Room::getNumber">
+<area shape="rect" id="node1" title="Getter that allows to get the number." alt="" coords="479,5,620,32"/>
+<area shape="rect" id="node2" href="$classHotel.html#a87ad43f7b129908ba1d3b60b7bcfb93a" title="Add a room to the hotel." alt="" coords="304,5,431,32"/>
+<area shape="rect" id="node3" href="$function_8cpp.html#a264585179ee5a4e89fe3b707f23d5d88" title="function to fill the hotel with rooms." alt="" coords="108,5,256,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
+</map>

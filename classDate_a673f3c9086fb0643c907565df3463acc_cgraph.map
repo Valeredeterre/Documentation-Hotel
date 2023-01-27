@@ -1,0 +1,6 @@
+<map id="Date::operator==" name="Date::operator==">
+<area shape="rect" id="node1" title="Operator overload." alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$classDate.html#a6304a67f1c13b239eb8e80ad68161e40" title="Getter that allows to get the day of the date." alt="" coords="199,5,310,32"/>
+<area shape="rect" id="node3" href="$classDate.html#af2dcc6ce51dbb2bd798499a149bdffb7" title="Getter that allows to get the month of the date." alt="" coords="192,56,317,83"/>
+<area shape="rect" id="node4" href="$classDate.html#ad79ce504482f317ddcfdc4ecad77671f" title="Getter that allows to get the year of the date." alt="" coords="199,107,310,133"/>
+</map>

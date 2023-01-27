@@ -1,0 +1,6 @@
+<map id="Room::getIsAvailable" name="Room::getIsAvailable">
+<area shape="rect" id="node1" title="Getter that allows to get the availability." alt="" coords="247,56,407,83"/>
+<area shape="rect" id="node2" href="$classBooking.html#a93e0d3a647ac990e4f742da95ff5d642" title="Default constructor of the Booking class." alt="" coords="34,5,170,32"/>
+<area shape="rect" id="node3" href="$classBooking.html#a2eed590eda2a4722135a0cbd12fadd10" title="Setter that allows to set the check in date of the booking." alt="" coords="9,56,195,83"/>
+<area shape="rect" id="node4" href="$classBooking.html#a97b0d7d0011e180c9adda3d9d4a3dd14" title="Setter that allows to set the room number of the booking." alt="" coords="5,107,199,133"/>
+</map>
