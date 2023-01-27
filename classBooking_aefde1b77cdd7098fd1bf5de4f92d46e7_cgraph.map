@@ -1,0 +1,6 @@
+<map id="Booking::setNumberOfNights" name="Booking::setNumberOfNights">
+<area shape="rect" id="node1" title="Setter that allows to set the number of nights of the booking." alt="" coords="5,31,217,57"/>
+<area shape="rect" id="node2" href="$classBooking.html#a7a135034340b8b7f4a7c9d3c07fc2761" title="Method allow to calculate the total cost of the booking." alt="" coords="265,31,408,57"/>
+<area shape="rect" id="node3" href="$classRoom.html#aec796763cabf1feb202bf9582c9e3fe0" title="Getter that allows to get the price." alt="" coords="457,5,579,32"/>
+<area shape="rect" id="node4" href="$classHotel.html#a286196ebb421e7c0514c76ba82d0c855" title="Getter that allows to get the room of the hotel." alt="" coords="456,56,580,83"/>
+</map>

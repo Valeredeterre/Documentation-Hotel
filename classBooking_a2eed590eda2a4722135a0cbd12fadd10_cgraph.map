@@ -1,0 +1,5 @@
+<map id="Booking::setCheckInDate" name="Booking::setCheckInDate">
+<area shape="rect" id="node1" title="Setter that allows to set the check in date of the booking." alt="" coords="5,31,192,57"/>
+<area shape="rect" id="node2" href="$classRoom.html#ab540196509fd068dc88fb14b753ee2a6" title="Getter that allows to get the availability." alt="" coords="240,5,400,32"/>
+<area shape="rect" id="node3" href="$classHotel.html#a286196ebb421e7c0514c76ba82d0c855" title="Getter that allows to get the room of the hotel." alt="" coords="258,56,382,83"/>
+</map>

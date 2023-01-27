@@ -1,0 +1,7 @@
+<map id="Booking" name="Booking">
+<area shape="rect" id="node1" title=" " alt="" coords="140,476,317,744"/>
+<area shape="rect" id="node2" href="$classClient.html" title=" " alt="" coords="5,226,143,377"/>
+<area shape="rect" id="node3" href="$classDate.html" title=" " alt="" coords="167,197,291,406"/>
+<area shape="rect" id="node4" href="$classHotel.html" title=" " alt="" coords="315,189,495,413"/>
+<area shape="rect" id="node5" href="$classAddress.html" title=" " alt="" coords="355,5,454,127"/>
+</map>

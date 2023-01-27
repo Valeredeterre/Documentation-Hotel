@@ -1,0 +1,5 @@
+<map id="Booking::totalCost" name="Booking::totalCost">
+<area shape="rect" id="node1" title="Method allow to calculate the total cost of the booking." alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node2" href="$classRoom.html#aec796763cabf1feb202bf9582c9e3fe0" title="Getter that allows to get the price." alt="" coords="197,5,319,32"/>
+<area shape="rect" id="node3" href="$classHotel.html#a286196ebb421e7c0514c76ba82d0c855" title="Getter that allows to get the room of the hotel." alt="" coords="196,56,320,83"/>
+</map>
